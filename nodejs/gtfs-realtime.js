@@ -746,6 +746,10 @@ module.exports = require("protobufjs").newBuilder().import({
                         {
                             "name": "CANCELED",
                             "id": 3
+                        },	
+                        {			
+                            "name": "REPLACEMENT",			
+                            "id": 5			
                         }
                     ],
                     "options": {}
